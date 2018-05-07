@@ -1,7 +1,8 @@
 .navbar-brand {
     font-family: 'Georgia', Times, Times New Roman, serif;
+    padding-left: 30px;
 }
 
 .navbar-nav {
+    padding-right: 30px;
 }
-
