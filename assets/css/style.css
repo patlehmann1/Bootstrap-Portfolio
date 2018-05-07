@@ -1,3 +1,7 @@
+.full {
+    background-color: #777777 !important;
+}
+
 .navbar-brand {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding-left: 30px;
@@ -5,4 +9,16 @@
 
 .navbar-nav {
     padding-right: 30px;
+}
+
+#card_div {
+    margin: auto !important;
+}
+
+#headshot {
+    background-color: white;
+}
+
+#about_me {
+    background-color: white;
 }
