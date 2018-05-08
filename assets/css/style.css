@@ -1,5 +1,6 @@
 .full {
-    background-color: #777777 !important;
+    background-color: #d3d3d3 !important;
+    background-repeat: repeat-x !important;
 }
 
 .navbar-brand {
@@ -11,14 +12,10 @@
     padding-right: 30px;
 }
 
-#card_div {
-    margin: auto !important;
-}
-
 #headshot {
     background-color: white;
 }
 
-#about_me {
-    background-color: white;
+#card_div {
+    margin: auto !important;
 }
